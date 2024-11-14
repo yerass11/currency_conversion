@@ -20,7 +20,7 @@
 1. **Clone the Repository:**
 
     ```bash
-    git clone https://github.com/your_username/currency_conversion.git
+    git clone https://github.com/yerass11/currency_conversion.git
     ```
 
 2. **Navigate to the Project Directory:**
